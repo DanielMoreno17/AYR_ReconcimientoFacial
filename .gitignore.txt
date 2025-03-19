@@ -1,2 +1,2 @@
-F1-Entrenamiento
-F3-Prueba
+C:\Users\admii\Desktop\AYR\AYR_ReconcimientoFacial\E3_ReconocimientoFacil\F1-Entrenamiento
+C:\Users\admii\Desktop\AYR\AYR_ReconcimientoFacial\E3_ReconocimientoFacil\F3-Prueba
